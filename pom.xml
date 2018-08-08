@@ -17,7 +17,6 @@
         <version>2.0.4.RELEASE</version>
         <relativePath/>
     </parent>
-
     <modules>
         <module>eureka-server</module>
         <module>service-hi</module>
